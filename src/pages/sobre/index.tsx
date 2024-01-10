@@ -24,7 +24,7 @@ export default function Sobre({ content }: ContentProps) {
   return (
     <>
       <Head>
-        <title>Quem somos? | Sujeito Programador</title>
+        <title>Complete Website | Sobre</title>
       </Head>
       <main className={styles.container}>
         <div className={styles.containerHeader}>
@@ -51,7 +51,7 @@ export default function Sobre({ content }: ContentProps) {
 
           <img
             src={content.banner}
-            alt="Sobre Sujeito Programador"
+            alt="Sobre nossa empresa"
           />
 
         </div>
