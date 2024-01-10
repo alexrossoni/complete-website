@@ -4,13 +4,17 @@ Website completo e responsivo com conteúdo totalmente dinâmico administrado po
 Tecnologias utilizadas: React.js, Next.js, Typescript, Sass, Prismic (CMS)
 
 Tela inicial
-![image](https://github.com/alexrossoni/complete-website/assets/103969200/8e3fa0c2-0c74-4283-a2ff-c3bac048acf5)
-![image](https://github.com/alexrossoni/complete-website/assets/103969200/b5d71bd1-ce35-4163-a028-427ad38f78c2)
-![image](https://github.com/alexrossoni/complete-website/assets/103969200/9c36cbba-ffa6-4fd4-86ad-a05569d878a4)
+![image](https://github.com/alexrossoni/complete-website/assets/103969200/f039394d-f864-46dc-9a7f-494235c251e2)
+![image](https://github.com/alexrossoni/complete-website/assets/103969200/bca5fde6-2264-41f5-bacd-ebb348f61aeb)
+![image](https://github.com/alexrossoni/complete-website/assets/103969200/479f2831-8e91-48a1-8272-9ff467437517)
 
 Tela de conteúdos (Postagens) com paginação
-![image](https://github.com/alexrossoni/complete-website/assets/103969200/d0b51507-7add-4b92-9e7a-351048f28272)
-![image](https://github.com/alexrossoni/complete-website/assets/103969200/f7bace52-15d3-4eda-a61c-c6d889eec6ba)
+![image](https://github.com/alexrossoni/complete-website/assets/103969200/61531355-3f26-46ec-a727-dc4038ada98c)
+![image](https://github.com/alexrossoni/complete-website/assets/103969200/b751895d-ef95-4e93-9ae2-f2bc830dd6be)
+
+Tela de leitura de uma postagem/artigo
+![image](https://github.com/alexrossoni/complete-website/assets/103969200/4a78d304-dee9-4f89-b1fb-52d250c5c902)
 
 Tela sobre
-![image](https://github.com/alexrossoni/complete-website/assets/103969200/31f600de-4f98-40c2-8074-63b7b9b5b544)
+![image](https://github.com/alexrossoni/complete-website/assets/103969200/c4f28ff3-61da-4494-9ccf-5566c624bf45)
+
