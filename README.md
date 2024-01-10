@@ -5,7 +5,7 @@ Tecnologias utilizadas: React.js, Next.js, Typescript, Sass, Prismic (CMS)
 
 Tela inicial
 ![image](https://github.com/alexrossoni/complete-website/assets/103969200/8e3fa0c2-0c74-4283-a2ff-c3bac048acf5)
-![image](https://github.com/alexrossoni/complete-website/assets/103969200/87a2394c-c9d6-4abc-aa47-540a513b7d79)
+![image](https://github.com/alexrossoni/complete-website/assets/103969200/b5d71bd1-ce35-4163-a028-427ad38f78c2)
 ![image](https://github.com/alexrossoni/complete-website/assets/103969200/9c36cbba-ffa6-4fd4-86ad-a05569d878a4)
 
 Tela de conteúdos (Postagens) com paginação
