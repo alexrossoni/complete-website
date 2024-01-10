@@ -1,5 +1,5 @@
 # Complete Website
-Website completo com conteúdo totalmente dinâmico administrado por um Sistema de Gerenciamento de Conteúdo (CMS), incluindo funcionalidade de blog.
+Website completo e responsivo com conteúdo totalmente dinâmico administrado por um Sistema de Gerenciamento de Conteúdo (CMS), incluindo funcionalidade de blog.
 
 Tecnologias utilizadas: React.js, Next.js, Typescript, Sass, Prismic (CMS)
 
